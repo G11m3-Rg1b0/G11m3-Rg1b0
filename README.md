@@ -1,12 +1,13 @@
 <h2>👋 &nbsp; Hey there! I'm Guillaume.</h2>
 
+-------------------------------------------
 <h3>  👨🏻‍💼  &nbsp;About Me </h3>
 
--------------------------------------------
 - 👨🏻‍💻 &nbsp; 2+ years as software developer.
 - 🧐 &nbsp; Exploring new technologies and developing solutions for MLOps systems.
 - 🌱 &nbsp; Learning more about Artificial Intelligence, Software Engineering, Server and Network....
 
+-------------------------------------------
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -36,6 +37,7 @@
   ![Agile](https://img.shields.io/badge/-Agile-333?style=flat&logo=agile)
   
 
+-------------------------------------------
 <p align="center">
 <a href="https://github.com/G11m3-Rg1b0">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G11m3-Rg1b0&theme=algolia&show_icons=true" />
@@ -43,6 +45,7 @@
 </a>
 </p>
 
+-------------------------------------------
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
