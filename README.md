@@ -1,19 +1,20 @@
-<h2>👋 &nbsp; Hey there! I'm Guillaume.</h2>
+## 👋 &nbsp; Hey there! I'm Guillaume.
 
 -------------------------------------------
-<h3>  👨🏻‍💼  &nbsp;About Me </h3>
+###  👨🏻‍💼  &nbsp;About Me
+
+I'm an enthusiastic developer that love to be challenged with complex problems.
 
 - 👨🏻‍💻 &nbsp; 2+ years as software developer.
 - 🧐 &nbsp; Exploring new technologies and developing solutions for MLOps systems.
-- 🌱 &nbsp; Learning more about Artificial Intelligence, Software Engineering, Server and Network....
+- 🌱 &nbsp; Learning more about Artificial Intelligence, Software Engineering, Server and Networks....
 
 -------------------------------------------
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -46,7 +47,7 @@
 </p>
 
 -------------------------------------------
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guillaume-regimbeau-b8075510b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Guillaume%20Regimbeau-blue?style=flat-square&logo=linkedin"></a>
